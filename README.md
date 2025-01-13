@@ -11,8 +11,8 @@ And you should see this error:
 Error occurred prerendering page "/". Read more: https://nextjs.org/docs/messages/prerender-error
 TypeError: w.H.useMemoCache is not a function
     at c (/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:68:4306)
-    at /Users/cody/Developer/use-memo-cache-repro/.next/server/app/page.js:1:25800
-    at eC (/Users/cody/Developer/use-memo-cache-repro/.next/server/app/page.js:1:27452)
+    at /.next/server/app/page.js:1:25800
+    at eC (/.next/server/app/page.js:1:27452)
     at nO (/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:20:45681)
     at nj (/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:20:47456)
     at nN (/node_modules/next/dist/compiled/next-server/app-page.runtime.prod.js:20:65255)
