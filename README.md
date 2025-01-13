@@ -40,3 +40,4 @@ Running `pnpm dev` yields a similar error on the server console:
 ```
 
 Downgrading to `next@15.1.4` resolves the issue and both `pnpm build` and `pnpm dev` are error-free.
+A live deployment is here https://use-memo-cache-repro-git-downgrade.sanity.dev/
